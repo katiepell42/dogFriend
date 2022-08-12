@@ -1,0 +1,95 @@
+.div-pink {
+    background-color: #ff6484;
+    /* height: 30vh; */
+    overflow: hidden;
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+
+.div-white {
+    background-color: white;
+    overflow: hidden;
+    /* height: 80vh;  */
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.intro-div {
+    padding-bottom: 0vh;
+}
+
+.android-btn:hover {
+    background-color: gray;
+}
+
+.ico {
+    width: 30px;
+    height: 30px;
+    padding-right: 3px;
+    padding-bottom: 2px;
+    display: block;
+    margin: auto;
+  }
+
+  .navbar-collapse { /* somehow allows links to go to right-hand side of page lol*/
+    flex-grow: 0;
+  }
+
+
+  .jumbotron {
+    font-size: 4em;
+  }
+
+
+  /* .main-banner {
+    margin-top: 10%;
+  } */
+
+  .download-btns {
+    height: 7vh;
+  }
+
+  .picture {
+    transform: rotate(30deg);
+    max-width:400px;
+  }
+
+  .main-image {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-custom {
+    width: 33%;
+    border: none;
+    margin-top: 5%;
+  }
+
+  /* .card-img-top {
+    min-height: 100px;
+    max-height: 100px;
+  } */
+
+
+  .pink-img {
+    height:10vh;
+    width:10vh;
+    
+  }
+
+  .dog-pic {
+    max-height: 100px;
+    max-width: 100px;
+  }
+
+
+  .btn-outline-pink {
+    border-color: #ff6484;
+  }
+
+  .download-btns > button {
+    margin: 10px;
+  }
